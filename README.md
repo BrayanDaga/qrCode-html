@@ -19,6 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 Desktop
 ![](./screenshoots/desktop.png)
+
 Mobile
 ![](./screenshoots/mobile.png)
 
@@ -28,8 +29,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/BrayanDaga/qrCode-html/](https://github.com/BrayanDaga/qrCode-html)
+- Live Site URL: [https://brayandaga.github.io/qrCode-html/](https://brayandaga.github.io/qrCode-html/)
 
 ## My process
 
