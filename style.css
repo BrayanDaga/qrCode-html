@@ -43,18 +43,18 @@ img {
     padding: 10px;
 }
 
-p {
+p, h1{
     text-align: center;
 }
 
-p.card-title {
+.card-title {
     font-weight: 700;
     font-size: 1.4rem;
     color: var(--dark-blue);
     margin-top: 12px;
 }
 
-p.card-text {
+.card-text {
     font-weight: 400;
     color: var(--grayish-blue);
     margin-top: 12px;
